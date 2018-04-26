@@ -2,6 +2,7 @@
 
 int main(){
 
+
 	float suma = 0;
 	float mitja;
 	float nou_valor;
